@@ -1,4 +1,7 @@
 # Market-Research---Looker-Studio
+Link to Dashboard: https://lookerstudio.google.com/reporting/bffefc33-21d8-4b8e-8084-e4c777249e39
+(Due to data privacy, please contact me for interest in viewing the dashboard)
+
 This repository contains a Looker dashboard, presentation deck, and survey form developed as part of Market Research for an offline networking event for alumni and members of StudentxCEO Jakarta. I integrated quantitative and qualitative data from primary source (Google Form branching survey) and secondary sources (benchmark &amp; brainstorming). 
 
 What I worked on for this project:
